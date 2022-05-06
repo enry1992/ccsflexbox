@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: #5a5a5a;
+    font-size: 18px;
+}
+
+#couadradoAtriangul{
+    width: 0px;
+    height: 0px;
+    border-left: 50px solid red;
+    border-top: 50px solid blue;
+    border-right: 50px solid green;
+    border-bottom: 50px solid yellow;
+
+}
